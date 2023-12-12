@@ -6,11 +6,10 @@ image: "/images/project-image.png"
 draft: false
 ---
 
-# Value creation:
-This proof-of-concept can be used for a prosthetic hand that is controlled by one’s voice. 
-
 # Motion model:
 When trying to find the frequencies of human voice from recordings, we would often run into the issue of harmonics which made the frequency of some time-steps incredibly large. A human’s voice frequency often doesn’t exceed 350 Hz. Knowing this, we needed to filter out frequencies over 350 Hz. The prosthetic hand can be programmed through servo motors which have a range of 0 to 180. Therefore, the voice frequency reader converts the data into a range from 0 to around 350 Hz. The top frequency of 350 Hz is adjustable depending on normal conversational voice frequencies for different people. 
+
+{{< image src="images/audio_data.jpeg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
 # Algorithm development and description:
 
