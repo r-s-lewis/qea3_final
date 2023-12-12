@@ -12,7 +12,7 @@ banner:
 # Features (simplified to a single section for the project introduction)
 features:
   - title: "Introduction to Audio Command Recognition"
-    image: "/images/service-1.png"
+    image: "images/robo_hand.png"
     content: "Introducing our innovative audio command recognition tool, leveraging Fourier transformations for accurate audio processing."
     bulletpoints:
       - "Innovative use of Fourier transformations"
