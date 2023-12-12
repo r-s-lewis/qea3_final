@@ -7,7 +7,7 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "About"
+name = "Write Up"
 url = "writeup/"
 weight = 2
 
