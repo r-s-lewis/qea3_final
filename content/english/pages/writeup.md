@@ -40,6 +40,5 @@ As you can see, sometimes we still run into other errors where the harmonic is b
 As you can see, the controller data ranges from 0 to 180 which is exactly what the servo intakes.
 
 # Proof of concept:
-Our proof of concept shows that we are able to intake human voices and be able to use the data for motion control for a prosthetic hand application. The next steps include, building out the mechanical and electrical system using the given servo data as well as making the algorithm work with minimal latency on a live audio feed.
-
+Building on our successful proof of concept in using human voice control for a prosthetic hand, the next steps are crucial for bringing this innovative idea to fruition. We would focus on designing and developing the mechanical and electrical systems, carefully integrating the servo data for precise movement control. This involves selecting appropriate materials and components that ensure durability, responsiveness, and user comfort. Next, we would be optimizing our algorithm to process live audio feeds with minimal latency. This step is critical to ensure real-time responsiveness of the prosthetic hand, making it as intuitive and seamless as possible for the user. The goal is to create a prosthetic hand that not only functions effectively but also feels like a natural extension of the user's body, enhancing their day-to-day life.
 
